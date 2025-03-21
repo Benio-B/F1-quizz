@@ -1,3 +1,3 @@
 # F1-quizz 🏎️
 
-Done with [bolt.new](www.bolt.new), just to play.
+Done with [bolt.new](https://www.bolt.new), just to play.
